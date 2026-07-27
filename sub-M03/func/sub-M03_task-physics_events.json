@@ -1,0 +1,22 @@
+{
+  "onset": {
+    "LongName": "Stimulus onset time",
+    "Description": "Time of the stimulus onset in seconds relative to the beginning of the experiment t=0."
+  },
+  "duration": {
+    "LongName": "Stimulus duration",
+    "Description": "Duration of the stimulus presentation in seconds."
+  },
+  "trial_type": {
+    "LongName": "Stimulus condition type",
+    "Description": "The condition of the stimulus being presented from the DOTSloc task (physics/social)"
+  },
+  "identifier": {
+    "LongName": "Movie file identifier",
+    "Description": "The name of the movie file that is presented on a given trial."
+  },
+  "correct_response": {
+    "LongName": "Match between Participant response & Expected Response",
+    "Description": "Participant responses are collected after the missing dot reappears to indicate if the dot appeared where they expected it to. This is matched with the expected response."
+  }
+}

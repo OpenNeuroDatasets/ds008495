@@ -1,0 +1,27 @@
+{
+    "ImagingFrequency": 0,
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "WIPMPRAGE_CS",
+    "SeriesNumber": 2,
+    "AcquisitionNumber": 2,
+    "ImageComments": "#-#_g6_lisik3_Sicomp_120_241106",
+    "PhilipsRescaleSlope": 4.75702,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.00346358,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.0024,
+    "RepetitionTime": 0.0076,
+    "ImageOrientationPatientDICOM": [
+        -0.018131,
+        0.998327,
+        -0.0549079,
+        0.0462347,
+        -0.054021,
+        -0.997469
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20230411",
+    "Dcm2bidsVersion": "2.1.7"
+}
