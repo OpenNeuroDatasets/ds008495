@@ -21,5 +21,6 @@
     "DatasetDOI": "doi:10.18112/openneuro.ds008495.v1.0.0",
     "EthicsApprovals": [
         "The study received ethical approval from the Johns Hopkins Homewood Institutional Review Board and complied with all relevant ethical regulations. All participants provided written informed consent."
-    ]
+    ],
+    "Acknowledgements": "We would like to thank Wenshuo Qin, Elizabeth Jiwon Im, Emalie McMahon, and the F.M. Kirby Research Center staff for help with fMRI data collection."
 }
