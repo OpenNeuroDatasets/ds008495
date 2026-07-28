@@ -18,5 +18,8 @@
         "https://doi.org/10.64898/2026.02.20.707082",
         "https://osf.io/hq3r7"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds008495.v1.0.0"
+    "DatasetDOI": "doi:10.18112/openneuro.ds008495.v1.0.0",
+    "EthicsApprovals": [
+        "The study received ethical approval from the Johns Hopkins Homewood Institutional Review Board and complied with all relevant ethical regulations. All participants provided written informed consent."
+    ]
 }
