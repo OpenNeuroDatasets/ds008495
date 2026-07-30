@@ -37,6 +37,8 @@ Participants viewed videos depicting either physical-object motion or social int
 
 The physics localizer was not used in the analyses reported in the accompanying manuscript.
 
+Note: Button responses in the ToM and physics localizers were used to support task engagement; exact response timing was not strictly enforced, and responses were not analyzed.
+
 ## Additional behavioral measures
 
 Participant-level post-scan relationship judgments for the 50 main-task PHASE videos are included in each participant's `beh/` directory. The mapping from task-specific stimulus identifiers to the original PHASE filenames is provided in `stimuli/phase_stimulus_id_mapping.tsv`.
