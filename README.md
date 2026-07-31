@@ -37,7 +37,7 @@ Participants viewed videos depicting either physical-object motion or social int
 
 The physics localizer was not used in the analyses reported in the accompanying manuscript.
 
-*Note: Button responses in the ToM and physics localizers were used to support task engagement; exact response timing was not strictly enforced, and responses were not analyzed.*
+*Note: Participants were instructed to respond on each ToM and physics trial, but missed or mistimed button presses were not treated as task failures when participants were otherwise following the task; response data were not analyzed.*
 
 ## Additional behavioral measures
 
