@@ -1,0 +1,17 @@
+onset	duration	trial_type	identifier	correct_response
+26.03	26	social	["fischer_videos/social.barriers.i.7.mp4"] & ["fischer_videos/social.nobarriers.i.6.mp4"]	true & false
+52.08	26	physics	["fischer_videos/physics.barriers.i.1.mp4"] & ["fischer_videos/physics.nobarriers.i.6.mp4"]	false & true
+78.12	26	social	["fischer_videos/social.barriers.i.1.mp4"] & ["fischer_videos/social.nobarriers.c.5.mp4"]	false & true
+104.17	26	social	["fischer_videos/social.barriers.i.3.mp4"] & ["fischer_videos/social.barriers.i.9.mp4"]	true & false
+130.2	26	physics	["fischer_videos/physics.nobarriers.i.2.mp4"] & ["fischer_videos/physics.nobarriers.c.7.mp4"]	true & false
+156.23	26	physics	["fischer_videos/physics.nobarriers.c.9.mp4"] & ["fischer_videos/physics.nobarriers.c.1.mp4"]	true & true
+182.28	26	social	["fischer_videos/social.nobarriers.c.7.mp4"] & ["fischer_videos/social.nobarriers.i.8.mp4"]	false & true
+208.31	26	physics	["fischer_videos/physics.barriers.i.9.mp4"] & ["fischer_videos/physics.barriers.c.2.mp4"]	false & false
+260.35	26	physics	["fischer_videos/physics.nobarriers.c.5.mp4"] & ["fischer_videos/physics.barriers.c.6.mp4"]	true & true
+286.41	26	social	["fischer_videos/social.barriers.c.6.mp4"] & ["fischer_videos/social.nobarriers.i.2.mp4"]	true & true
+312.43	26	physics	["fischer_videos/physics.barriers.i.3.mp4"] & ["fischer_videos/physics.barriers.c.10.mp4"]	true & true
+338.47	26	physics	["fischer_videos/physics.nobarriers.i.10.mp4"] & ["fischer_videos/physics.nobarriers.i.8.mp4"]	false & false
+364.51	26	social	["fischer_videos/social.barriers.c.10.mp4"] & ["fischer_videos/social.nobarriers.c.1.mp4"]	true & true
+390.57	26	social	["fischer_videos/social.nobarriers.c.9.mp4"] & ["fischer_videos/social.nobarriers.i.10.mp4"]	true & false
+416.62	26	physics	["fischer_videos/physics.barriers.i.7.mp4"] & ["fischer_videos/physics.barriers.c.4.mp4"]	true & true
+442.65	26	social	["fischer_videos/social.barriers.c.2.mp4"] & ["fischer_videos/social.barriers.c.4.mp4"]	true & true
