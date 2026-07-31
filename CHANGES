@@ -1,2 +1,4 @@
+1.0.1 2026-07-31
+  - Updated README
 1.0.0 2026-07-28
   - Initial release containing raw BIDS data, selected fMRIPrep and GLMsingle derivatives, and post-scan behavioral ratings.
