@@ -1,0 +1,33 @@
+{
+  "Name": "fMRIPrep derivatives for SI-Neural-Computations",
+  "BIDSVersion": "1.11.1",
+  "DatasetType": "derivative",
+  "License": "CC0",
+  "Authors": [
+    "Manasi Malik",
+    "Minjae Kim",
+    "Tianmin Shu",
+    "Shari Liu",
+    "Leyla Isik"
+  ],
+  "Funding": [
+    "National Institute of Mental Health (NIMH) R01MH132826"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "fmriprep",
+      "Version": "21.0.2",
+      "Description": "Functional MRI data preprocessed using fMRIPrep and normalized to MNI152NLin2009cAsym space."
+    },
+    {
+      "Name": "Manual",
+      "Description": "A subset of the original fMRIPrep outputs was selected for public release. Included files are MNI152NLin2009cAsym preprocessed BOLD images, corresponding brain masks and JSON sidecars, and confounds TSV and JSON files. No image data were modified."
+    }
+  ],
+  "HowToAcknowledge": "Please cite the associated preprint: Malik, M., Kim, M., Shu, T., Liu, S., & Isik, L. (2026). Bottom-up and generative computations uniquely explain neural responses across the social brain. bioRxiv. https://doi.org/10.64898/2026.02.20.707082",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.64898/2026.02.20.707082",
+    "https://osf.io/hq3r7",
+    "https://doi.org/10.1038/s41592-018-0235-4"
+  ]
+}

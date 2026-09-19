@@ -1,0 +1,33 @@
+{
+  "onset": {
+    "LongName": "Stimulus onset time",
+    "Description": "Time of the stimulus onset in seconds relative to the beginning of the experiment t=0."
+  },
+  "duration": {
+    "LongName": "Stimulus duration",
+    "Description": "Duration of the stimulus presentation in seconds."
+  },
+  "trial_type": {
+    "LongName": "Stimulus condition type",
+    "Description": "The condition of the stimulus being presented in a given block",
+    "Levels": {
+      "experimental_trial": "Videos of two creatures moving around in an environment. This is the condition that will be modeled in the main analysis.",
+      "attention_check": "Low ambiguity videos of two creatures moving around in an environment. The participant is asked to describe the creatures` relationship after each trial. Responses are used to check if the participant is paying attention."
+    }
+  },
+  "identifier": {
+    "LongName": "Movie file identifier",
+    "Description": "The name of the movie file that is presented on a given trial."
+  },
+  "response": {
+    "LongName": "Participant response",
+    "Description": "These responses are collected after the attention_check trials to make sure that the participant is paying attention. These trials will be regressed out in the Main Analysis."
+  },
+  "StimulusPresentation": {
+    "OperatingSystem": "Version 10.0 (Build 19045)",
+    "SoftwareName": "Psychtoolbox",
+    "SoftwareRRID": "RRID:SCR_002881",
+    "SoftwareVersion": "3.0.19",
+    "MATLABVersion": "9.10.0.2198249 (R2021a) Update 8"
+  }
+}

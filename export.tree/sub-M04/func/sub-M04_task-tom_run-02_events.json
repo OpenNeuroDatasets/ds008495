@@ -1,0 +1,29 @@
+{
+  "onset": {
+    "LongName": "Stimulus onset time",
+    "Description": "Time of the stimulus onset in seconds relative to the beginning of the experiment t=0."
+  },
+  "duration": {
+    "LongName": "Stimulus duration",
+    "Description": "Duration of the stimulus presentation in seconds."
+  },
+  "trial_type": {
+    "LongName": "Stimulus condition type",
+    "Description": "The condition of the stimulus being presented in a given block",
+    "Levels": {
+      "belief": "Scenarios and questions in which the participant is asked to think about the mental state of a person in the story.",
+      "photo": "Scenarios and questions in which the participant is asked to report facts presented in the story."
+    }
+  },
+  "StimulusPresentation": {
+    "OperatingSystem": "Version 10.0 (Build 19045)",
+    "SoftwareName": "Psychtoolbox",
+    "SoftwareRRID": "RRID:SCR_002881",
+    "SoftwareVersion": "3.0.19",
+    "MATLABVersion": "9.10.0.2198249 (R2021a) Update 8"
+  },
+  "response": {
+    "LongName": "Participant attention-task response",
+    "Description": "Button code recorded for questions presented to encourage participants to attend to the stimuli. Responses were not used in the reported analyses and may be missing or incomplete because of response-recording issues."
+  }
+}
