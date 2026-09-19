@@ -102,7 +102,7 @@ https://github.com/manasimalik/SI-Neural-Computations
 
 ## Ethics
 
-The study received ethical approval from the Johns Hopkins Homewood Institutional Review Board and complied with all relevant ethical regulations. All participants provided written informed consent.
+The study received ethical approval from the Johns Hopkins Medicine Institutional Review Board and complied with all relevant ethical regulations. All participants provided written informed consent.
 
 ## Citation
 
